@@ -1,0 +1,1 @@
+The code suite uses the inversion of apatite Sm versus Y compositional variations as an example. demo_Sm_Y.py is the main executable script, Inversion_Sm_Y.py contains the customized MultiNest implementation, and Function.py stores the auxiliary functions called during runtime, Sm_Y.csv is the input data file.
